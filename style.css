@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(226, 243, 243);
+}
+ul li{
+    margin: 10px 20px;
+    list-style: numbers;
+    padding:10px;
+    box-shadow: 5px 5px 5px 5px lightgrey;
+    text-align: start;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 15px;
+    background-color: rgb(248, 245, 241);
+    border-radius: 10px;
+    font-weight: 500;
+
+}
+.joke-con{
+    border-radius: 10px;
+}
+li i{
+    
+    align-self: center;
+    cursor: pointer;
+    transition: all 1s ease;
+}
+li i:hover{
+    transform: scale(1.5);
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
