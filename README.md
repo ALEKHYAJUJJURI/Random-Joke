@@ -1,4 +1,1 @@
-Html
-Css
-JavaScript
-Bootstrap
+This project is a Random Joke Generator built with JavaScript and HTML/CSS, leveraging an external API. It offers a simple and interactive interface where users can generate, save, and delete jokes. The project also includes a visually engaging design with changing background colors to add a playful feel.
